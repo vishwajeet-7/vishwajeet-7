@@ -1,3 +1,4 @@
+<img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" /></br>
 # 💫 About Me:
 🔭 I’m currently working on Web development projects<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about HTML, CSS, JavaScript, react, redux, Node.js, Express, MongoDB<br><br>📫 How to reach me: vishady7@gmail.com
 
