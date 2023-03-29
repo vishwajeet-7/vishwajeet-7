@@ -1,6 +1,7 @@
 <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" /></br>
 # 💫 About Me:
-🔭 I’m currently working on Web development projects<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about HTML, CSS, JavaScript, react, redux, Node.js, Express, MongoDB<br><br>📫 How to reach me: vishady7@gmail.com
+<h2>:wave: Highly motivated individual with great interest and passion for technology. Working on various web developement project and learning new languages,frameworks and libraries. Looking for opportunities to sharpen my skill with targeted mentorship and guidance</h2>
+🔭 I’m currently working on Web development projects<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about HTML, CSS, JavaScript, react, redux, Node.js, Express, MongoDB<br><br>📫 How to reach me: vishady7@gmail.com<br><br> 💻 Portfolio: https://vishwajeet-7.github.io/
 
 
 ## 🌐 Socials:
