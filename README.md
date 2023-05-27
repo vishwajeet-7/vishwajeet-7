@@ -11,7 +11,7 @@
 
 🚀 Previously, I served as a Team Leader at RFS Technology and Services, showcasing my ability to lead and deliver successful project outcomes. I'm always eager to explore new technologies, attend tech meetups, and engage in online coding forums to stay updated with industry trends.
 
-🔎 When I'm not coding, I enjoy exploring new cuisines, practicing photography, and indulging in stand-up comedy shows. I believe that a positive mindset and a good laugh contribute to personal and professional growth.
+🔎 When I'm not coding, I enjoy exploring new cuisines, travelling, listening music,watching movies and indulging in stand-up comedy shows. I believe that a positive mindset and a good laugh contribute to personal and professional growth.
 
 🌐 If you're seeking a dedicated Full Stack Web Developer with a problem-solving mindset, a passion for coding, and a commitment to continuous learning, let's connect! Whether it's collaborating on projects, discussing ideas, or simply having a chat over coffee, I'm excited to create innovative solutions and make an impact in the world of technology!
 
