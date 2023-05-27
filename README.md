@@ -1,6 +1,22 @@
 <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" /></br>
 # 💫 About Me:
-<h2>:wave: Highly motivated individual with great interest and passion for technology. Working on various web developement project and learning new languages,frameworks and libraries. Looking for opportunities to sharpen my skill with targeted mentorship and guidance</h2>
+<h2>
+  Passionate Full Stack Web Developer | Problem Solver | Team Player | Continuous Learner
+
+👨‍💻 I'm a passionate Full Stack Web Developer with expertise in Java, JavaScript, HTML, CSS, ReactJS, Redux, Chakra UI, Node.js, Express.js, and MongoDB. Through an intensive Full Stack Web Development course at Masai School, I built over 5 projects solo and as part of a team. Additionally, I underwent training in personality development, enhancing my communication, leadership, and teamwork skills.
+
+🌟 With a deep love for coding, I've tackled 1000+ DSA problems on platforms like Masai OJ, LeetCode, HackerRank, and more. This has sharpened my logical thinking and analytical abilities, making me a strong problem solver.
+
+💼 As a Freelancer at SEFE Marketing, I excelled in helping them generate leads by leveraging SEO strategies and improving website rankings on search engines like Google. My efforts increased online visibility and drove targeted traffic to their websites.
+
+🚀 Previously, I served as a Team Leader at RFS Technology and Services, showcasing my ability to lead and deliver successful project outcomes. I'm always eager to explore new technologies, attend tech meetups, and engage in online coding forums to stay updated with industry trends.
+
+🔎 When I'm not coding, I enjoy exploring new cuisines, practicing photography, and indulging in stand-up comedy shows. I believe that a positive mindset and a good laugh contribute to personal and professional growth.
+
+🌐 If you're seeking a dedicated Full Stack Web Developer with a problem-solving mindset, a passion for coding, and a commitment to continuous learning, let's connect! Whether it's collaborating on projects, discussing ideas, or simply having a chat over coffee, I'm excited to create innovative solutions and make an impact in the world of technology!
+
+"The world becomes a canvas of infinite possibilities when you wield the power of code."
+</h2>
 🔭 I’m currently working on Web development projects<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about HTML, CSS, JavaScript, react, redux, Node.js, Express, MongoDB<br><br>📫 How to reach me: vishady7@gmail.com<br><br> 💻 Portfolio: https://vishwajeet-7.github.io/
 
 
