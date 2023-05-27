@@ -1,6 +1,6 @@
 <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" /></br>
 # 💫 About Me:
-<h2>
+<p>
   Passionate Full Stack Web Developer | Problem Solver | Team Player | Continuous Learner
 
 👨‍💻 I'm a passionate Full Stack Web Developer with expertise in Java, JavaScript, HTML, CSS, ReactJS, Redux, Chakra UI, Node.js, Express.js, and MongoDB. Through an intensive Full Stack Web Development course at Masai School, I built over 5 projects solo and as part of a team. Additionally, I underwent training in personality development, enhancing my communication, leadership, and teamwork skills.
@@ -16,7 +16,8 @@
 🌐 If you're seeking a dedicated Full Stack Web Developer with a problem-solving mindset, a passion for coding, and a commitment to continuous learning, let's connect! Whether it's collaborating on projects, discussing ideas, or simply having a chat over coffee, I'm excited to create innovative solutions and make an impact in the world of technology!
 
 "The world becomes a canvas of infinite possibilities when you wield the power of code."
-</h2>
+</p>
+<hr/>
 🔭 I’m currently working on Web development projects<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about HTML, CSS, JavaScript, react, redux, Node.js, Express, MongoDB<br><br>📫 How to reach me: vishady7@gmail.com<br><br> 💻 Portfolio: https://vishwajeet-7.github.io/
 
 
